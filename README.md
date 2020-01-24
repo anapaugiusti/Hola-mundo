@@ -1,5 +1,6 @@
 # Hola-mundo
 Este es el primer ejemplo de github
+<<<<<<< HEAD
                  _  _
                  ( \/ )
           .---.   \  /   .-"-. 
@@ -10,3 +11,5 @@ Este es el primer ejemplo de github
   =======""===""========""===""=======
            |||            |||
             |              |
+=======
+>>>>>>> parent of 2fa6f5f... Perro puppy
